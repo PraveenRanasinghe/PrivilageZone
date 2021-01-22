@@ -2,7 +2,7 @@
 
 ## App Information
 
-This application is currently hosted on `Firebase` at the URL - ``
+This application is currently hosted on `Firebase` at the URL - `https://privilagezone-76d5b.web.app`
 
 ## Project Technical Aspect
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
