@@ -1,0 +1,29 @@
+.topic{
+  height: 150px;
+  width: 500px;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUMZoP2s2HMUGZHiS1Tz0YGt7SjwhiQ8qaUA&usqp=CAU');
+  background-size: contain;
+  margin-left: 50%;
+}
+
+.form{
+  margin-top: 10px;
+  margin-left: 65%;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,229,168,1) 0%, rgba(251,174,222,1) 100.7% );
+  border-color:black;
+  border-style: double;
+  color: rgb(15, 2, 2);
+}
+
+.btn{
+  margin-left: 38%;
+}
+
+.form-control{
+  border-color:black;
+  border-style: groove;
+}
+
+.form-control:hover{
+  background-color:rgb(203, 221, 176);
+}

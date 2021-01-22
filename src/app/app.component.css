@@ -1,0 +1,15 @@
+.loginBox{
+  background-color: rgb(226, 183, 43);
+  box-sizing: content-box;
+}
+
+/* .container{
+  background-image: url('https://img.freepik.com/free-vector/garage-interior-realistic-composition_1284-25624.jpg?size=626&ext=jpg');
+} */
+.heading{
+  color:rgb(253, 252, 252);
+}
+
+.r1{
+  margin-left: 250px;
+}

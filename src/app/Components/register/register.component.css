@@ -1,0 +1,29 @@
+.RegisterForm{
+  color: black;
+  font-weight: 500;
+  box-sizing:border-box;
+  height: 700px;
+  width: 200px;
+  align-content: center;
+  margin-left: 300px;
+  margin-top: 30px;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,229,168,1) 0%, rgba(251,174,222,1) 100.7% );
+  border-color:black;
+  border-style: double;
+
+}
+
+.btn{
+  margin-left: 25%;
+
+}
+
+.form-control{
+  border-color:black;
+}
+
+.form-control:hover{
+  background-color:cornsilk;
+}
+
+

@@ -1,0 +1,18 @@
+.b1{
+  background: rgb(217,110,110);
+  background: linear-gradient(90deg, rgba(217,110,110,1) 7%, rgba(214,196,131,0.8743872549019608) 43%, rgba(106,88,68,0.7987570028011204) 99%);
+  height: 65px;
+  width: 500px;
+  color:black;
+  border-color:rgb(0, 0, 0);
+  border-style: double;
+  margin-left: 50%;
+  font-size: large;
+}
+
+.b1:hover{
+  color: black;
+  background-color: rgb(238, 255, 0);
+}
+
+

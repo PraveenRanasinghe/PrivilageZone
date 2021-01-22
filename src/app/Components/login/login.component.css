@@ -1,0 +1,22 @@
+.loginBox{
+  margin-top: 200px;;
+  color: black;
+  background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(255,229,168,1) 0%, rgba(251,174,222,1) 100.7% );
+  height: 350px;
+  width: 300;
+  text-align: center;
+  margin-left: 59%;
+}
+
+/* .image{
+  height: 100px;
+  width: 150px;
+  margin-left: 30%;
+  background-size: cover;
+  background-image: url('https://banner2.cleanpng.com/20180418/gre/kisspng-human-resources-login-management-information-payro-track-5ad7cda3586cb1.5605091515240923233622.jpg');
+  border-image: round;
+} */
+.btn{
+  background-color:yellow;
+  color: black;
+}

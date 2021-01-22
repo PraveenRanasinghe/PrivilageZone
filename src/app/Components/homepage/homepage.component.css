@@ -1,0 +1,48 @@
+.top1{
+
+  width: 900px;
+  margin-left: 15%;
+  margin-top: 5px;
+}
+.p1{
+  font-size: x-large;
+  color: rgb(225, 238, 109);
+  text-align: center;
+  font-family: sans-serif;
+  margin-left: 30px;
+  font-weight: 600;
+
+}
+.bg1
+{
+  height: 800px;
+  width: 1176px;
+
+}
+
+.b2{
+  color: white;
+}
+.t1{
+  font-size: xx-large;
+  color: white;
+  font-family: sans-serif;
+  font-weight: 300;
+  align-content: center;
+  margin-top: 100px;
+  margin-left: 30%;
+ font-weight: 900;
+  text-align: center;
+}
+.t2{
+
+  margin-top: 50px;
+  margin-left: 30%;
+  color: azure;
+  text-align: center;
+}
+
+.c1{
+  margin-left: 50%;
+
+}
