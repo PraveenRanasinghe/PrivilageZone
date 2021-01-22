@@ -21,6 +21,7 @@ import { HomepageComponent } from './Components/homepage/homepage.component';
 import { GalleryComponent } from './Components/gallery/gallery.component';
 import { UserHomeComponent } from './subComponents/user-home/user-home.component';
 import { EngineServiceComponent } from './subComponents/engine-service/engine-service.component';
+import { AuthGuard } from './guards/auth.guard';
 
 const routes: Routes = [
   {
@@ -30,7 +31,6 @@ const routes: Routes = [
   {
     path: 'register',
     component: RegisterComponent,
-    canActivate: [authGuard],
   },
   {
     path: 'login',
@@ -39,6 +39,7 @@ const routes: Routes = [
   {
     path: 'ourService',
     component: OurServiceComponent,
+    canActivateChild:[AuthGuard],
     children: [{ path: 'engineService', component: EngineServiceComponent }],
   },
   {
